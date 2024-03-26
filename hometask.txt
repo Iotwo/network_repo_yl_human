@@ -21,3 +21,14 @@
 #- ===== =====
 #+   === ===
 # Видно, что в мастере пока что нет пуговиц (локальная ветка впереди репозитория в интернете на несколько коммитов)
+
+12 коммитов, 6 принадлежат оригинальному репозиторию.
+
+c88fdfd - Merge remote-tracking branch 'origin/boots' into boots_buttons
+faf9ebf - Merge remote-tracking branch 'origin/buttons' into boots_buttons
+98b13b - Revert "fix readme" this reverts commit df455a7  # была допущена ошибка
+947e78e - Merge remote-tracking branch 'orig-src/hat'
+7533ea1 - Merge remote-tracking branch 'upstream/boots_buttons'
+4c70e71 - Added hometask.txt
+nohashyet - Updated hometask.txt
+
